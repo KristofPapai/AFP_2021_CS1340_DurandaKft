@@ -1,0 +1,28 @@
+# Matematika oktató program követelményspecifikáció
+
+## 1. jelenlegi helyzet:
+Iskolások számára szeretnénk egy geometria oktató programot mellyel ellenőrizhetnék egy-egy matematika feladat megoldását.
+A programot telefonos alkalmazásként képzeltük el hogy a gyerekekenek meg mutathassuk hogy telefonjukat nem csak szórakozásra hanem tanulásra is használhatják.
+
+## 2.Igényelt funkciók:
+-   	2.1:Háromszög terület/kerület számítás
+-   	2.2:Négyszög terület/kerület számítás
+-   	2.3:Sokszög területe
+-   	2.4:Rombusz területe
+
+## 3. Vágyálom rendszer
+-   	3.1:Minél felhasználóbarátabb és praktikusabb alkalmazás fejlesztése.
+-   	3.2Precíz és bizalomgerjesztő megjelenés, stimuláló színvilág, mely leköti a felhasználó figyelmét.
+-   	3.3Hatékony és gyors feladatmegoldás az alkalmazás segítségével.
+-   	3.4Egyszerű és átlátható hibabejelentési funkció.
+-   	3.5Frissítés és karbantartás heti rendszerességgel.
+
+## 4. Megrendelői cél:
+-   	4.1: Az alkalmazást minden korosztály számára elérhetővé tenni, telefonos alkalmazás lévén bárhol és bármikor egyszerűen felhasználva.
+-   	4.2: A felhasználók telefonhasználat közben is tehessenek a matematikai képességük fejlődéséért.
+
+## 5. Megrendelői követelmény:
+-   	5.1: Mivel diákjaink rengeteg féle telefonnal rendelkeznek emiatt szeretnénk hogy az alkalmazás univerzálisan mindeggyikük telefonján fusson.
+-   	5.2: Reszponzív kialakítás: Minden felbontásban jól használható legyen az alkalmazás.
+-       5.3: Az egyes megoldott képleteket és feladatokat Mentési funkció segítségével, könnyedén eltárolhatóvá tegyük.
+-   	5.4: A felhasználók bejelentkezhessenek és az alkalmazás minél gyakoribb használatával jutalmakat oldhassanak fel.
