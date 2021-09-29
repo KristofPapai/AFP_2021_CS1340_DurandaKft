@@ -24,8 +24,10 @@ A programot telefonos alkalmazásként képzeltük el hogy a gyerekekenek meg mu
 	4.5: Az egyes megoldott képleteket és feladatokat Mentési funkció segítségével, könnyedén eltárolhatóvá tegyük.
 	4.6: Egyszerű és átlátható hibabejelentési funkció.
 	     
-## 5. Megrendelői követelmény:
--   	5.1: Mivel diákjaink rengeteg féle telefonnal rendelkeznek emiatt szeretnénk hogy az alkalmazás univerzálisan mindeggyikük telefonján fusson.
--   	5.2: Reszponzív kialakítás: Minden felbontásban jól használható legyen az alkalmazás.
--       5.3: Az egyes megoldott képleteket és feladatokat Mentési funkció segítségével, könnyedén eltárolhatóvá tegyük.
--   	5.4: A felhasználók bejelentkezhessenek és az alkalmazás minél gyakoribb használatával jutalmakat oldhassanak fel.
+## 5. Fogalomszótár:
+	5.1: Alkalmazás - jelen esetben egy matematikai oktató-jellegű program
+	5.2: Használat - a felhasználó begépeli a vizsgálni kívánt alakzat paramétereit és az egyes metódusok elvégzik a számítást, majd kiírják a képernyőre.
+	5.3: Front-End - Egy adott rendszer legfelsőbb, a felhasználóval kapcsolatot táró rétege, 
+	 amelynek feladata a rendszerből kijutó adatok megjelenítése, prezentálása,
+	 illetve a bejövő adatok fogadása.
+	5.4: Back-End - Egy adott rendszer alsóbb rétege, aminek feladata a front-end réteg felől érkező adatok feldolgozása, valamint a keletkezett eredmény front-end számára történő visszajuttatása.
