@@ -16,10 +16,14 @@ A programot telefonos alkalmazásként képzeltük el hogy a gyerekekenek meg mu
 	3.1: Az emberek többsége nehezen tudja fejben tartani az egyes matematikai képleteket. 
 	     Ezért alkotunk egy kisebb segítségként szolgáló alkalmazást.
 
-## 4. Megrendelői cél:
--   	4.1: Az alkalmazást minden korosztály számára elérhetővé tenni, telefonos alkalmazás lévén bárhol és bármikor egyszerűen felhasználva.
--   	4.2: A felhasználók telefonhasználat közben is tehessenek a matematikai képességük fejlődéséért.
-
+## 4.Igényelt funkciók:
+	4.1: Felület a Háromszög területének/kerületének kiszámítására
+	4.2: Felület a Négyszög területének/kerületének kiszámítására
+	4.3: Felület a Sokszög területének kiszámítására
+	4.4: Felület a Rombusz területének kiszámítására
+	4.5: Az egyes megoldott képleteket és feladatokat Mentési funkció segítségével, könnyedén eltárolhatóvá tegyük.
+	4.6: Egyszerű és átlátható hibabejelentési funkció.
+	     
 ## 5. Megrendelői követelmény:
 -   	5.1: Mivel diákjaink rengeteg féle telefonnal rendelkeznek emiatt szeretnénk hogy az alkalmazás univerzálisan mindeggyikük telefonján fusson.
 -   	5.2: Reszponzív kialakítás: Minden felbontásban jól használható legyen az alkalmazás.
