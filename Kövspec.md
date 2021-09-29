@@ -4,11 +4,13 @@
 Iskolások számára szeretnénk egy geometria oktató programot mellyel ellenőrizhetnék egy-egy matematika feladat megoldását.
 A programot telefonos alkalmazásként képzeltük el hogy a gyerekekenek meg mutathassuk hogy telefonjukat nem csak szórakozásra hanem tanulásra is használhatják.
 
-## 2.Igényelt funkciók:
--   	2.1:Háromszög terület/kerület számítás
--   	2.2:Négyszög terület/kerület számítás
--   	2.3:Sokszög területe
--   	2.4:Rombusz területe
+## 2. Vágyálom rendszer
+	2.1: Minél felhasználóbarátabb és praktikusabb alkalmazás fejlesztése.
+	2.2: Precíz és bizalomgerjesztő megjelenés, stimuláló színvilág, mely leköti a felhasználó figyelmét.
+	2.3: Hatékony és gyors feladatmegoldás az alkalmazás segítségével.
+	2.4: Frissítés és karbantartás heti rendszerességgel.
+	2.5: Az alkalmazást minden korosztály számára elérhetővé tenni, telefonos alkalmazás lévén bárhol és bármikor egyszerűen felhasználva.	
+	2.6: Reszponzív kialakítás: Minden felbontásban jól használható legyen az alkalmazás.
 
 ## 3. Vágyálom rendszer
 -   	3.1:Minél felhasználóbarátabb és praktikusabb alkalmazás fejlesztése.
