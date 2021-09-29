@@ -12,12 +12,9 @@ A programot telefonos alkalmazásként képzeltük el hogy a gyerekekenek meg mu
 	2.5: Az alkalmazást minden korosztály számára elérhetővé tenni, telefonos alkalmazás lévén bárhol és bármikor egyszerűen felhasználva.	
 	2.6: Reszponzív kialakítás: Minden felbontásban jól használható legyen az alkalmazás.
 
-## 3. Vágyálom rendszer
--   	3.1:Minél felhasználóbarátabb és praktikusabb alkalmazás fejlesztése.
--   	3.2Precíz és bizalomgerjesztő megjelenés, stimuláló színvilág, mely leköti a felhasználó figyelmét.
--   	3.3Hatékony és gyors feladatmegoldás az alkalmazás segítségével.
--   	3.4Egyszerű és átlátható hibabejelentési funkció.
--   	3.5Frissítés és karbantartás heti rendszerességgel.
+## 3. Jelenlegi üzleti folyamatok modellje:	
+	3.1: Az emberek többsége nehezen tudja fejben tartani az egyes matematikai képleteket. 
+	     Ezért alkotunk egy kisebb segítségként szolgáló alkalmazást.
 
 ## 4. Megrendelői cél:
 -   	4.1: Az alkalmazást minden korosztály számára elérhetővé tenni, telefonos alkalmazás lévén bárhol és bármikor egyszerűen felhasználva.
