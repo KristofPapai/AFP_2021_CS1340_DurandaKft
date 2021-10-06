@@ -35,7 +35,30 @@
         <input type="number" id="bszog" name="bszog"><br><br>
         <label for="cszog">(γ) oldal:</label>
         <input type="number" id="cszog" name="cszog"><br><br>
+        <input type="button" onclick="calc('aoldal','boldal','coldal','aszog','bszog','cszog')" value="Számolás!"><br><br>
+
       </div>
     </div>
+    <script type="text/javascript">
+      function calc(aoldal,boldal,coldal,aszog,bszog,cszog) {
+       var ao = parseInt(document.getElementById(aoldal).value);
+       var bo = parseInt(document.getElementById(boldal).value);
+       var co = parseInt(document.getElementById(coldal).value);
+
+       var asz = parseInt(document.getElementById(aszog).value);
+       var bsz = parseInt(document.getElementById(bszog).value);
+       var csz = parseInt(document.getElementById(cszog).value);
+
+
+       if (ao > 0 && bo > 0 && co > 0) {
+         var semiperimeter = (ao+bo+co) / 2;
+         var areaValue = Math.sqrt(semiperimeter * (semiperimeter - ao) * (semiperimeter - bo) * (semiperimeter - co));
+         console.log(`The area of the triangle is ${areaValue}`);
+
+       }
+     }
+
+
+     </script>
   </body>
 </html>
