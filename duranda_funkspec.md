@@ -10,8 +10,8 @@
 
 ## 8. Forgatókönyv:
 Felhasználó:
-1. A felahsználó belép az alkalmazásba és egyből a tájékoztató főoldal fogja fogadni.
+1. A felhasználó belép az alkalmazásba és egyből a tájékoztató főoldal fogja fogadni.
 2. A felhasználó a menüsávból ki fogja tudni választani hogy melyik geometria számítást szeretné elvégezni.
-3. Az különböző számítások oldalán a rendszer eggyértelműen be fog kérni adatokat a számításhoz és megpróbálja azt elvégezni. Ha sikeres volt a számítás akkor az vissazadja az adatokat a felhasználónak, ha pedig sikertelen akkor pedig megpróbál vissazdobni egy indokot az oldal.
+3. Az különböző számítások oldalán a rendszer egyértelműen be fog kérni adatokat a számításhoz és megpróbálja azt elvégezni. Ha sikeres volt a számítás akkor az visszaadja az adatokat a felhasználónak, ha pedig sikertelen akkor megpróbál visszadobni egy indokot az oldal.
 
 //IDE LEHET BŐVÍTENI
