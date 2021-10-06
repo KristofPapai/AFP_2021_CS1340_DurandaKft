@@ -36,7 +36,8 @@ body {
   text-align: center;
 }
 .txt_area {
-
+  text-align: left;
+  
 }
 
 @media screen and (max-height: 450px) {
