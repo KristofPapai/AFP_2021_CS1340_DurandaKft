@@ -53,7 +53,12 @@
        if (ao > 0 && bo > 0 && co > 0) {
          var semiperimeter = (ao+bo+co) / 2;
          var areaValue = Math.sqrt(semiperimeter * (semiperimeter - ao) * (semiperimeter - bo) * (semiperimeter - co));
-         console.log(`The area of the triangle is ${areaValue}`);
+         areaValue = areaValue.toFixed(2);
+         var perimeterValue = ao + bo + co
+         window.alert(`A területe a háromszögnek: ${areaValue} cm2 ||| A háromszög kerülete: ${perimeterValue} cm`);
+
+       }
+       else if (ao > 0 && bo > 0 && csz > 0) {
 
        }
      }
