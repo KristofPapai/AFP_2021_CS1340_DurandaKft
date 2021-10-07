@@ -58,8 +58,41 @@
          window.alert(`A területe a háromszögnek: ${areaValue} cm2 ||| A háromszög kerülete: ${perimeterValue} cm`);
 
        }
+       else if (bo > 0 && co > 0 && asz > 0) {
+         var pi = Math.PI;
+         var tempang = asz * (pi/180)
+         var ang = Math.sin(tempang);
+         var angP = Math.cos(tempang);
+         var area = ((1/2) * bo * co * ang).toFixed(2);
+         var perimeterTemp = 2*(bo*co*angP);
+         var perimeterC = (co*co) + (bo*bo) - perimeterTemp
+         var perimeterfin = (Math.sqrt(perimeterC) + co + bo).toFixed(2);
+         window.alert(`A területe a háromszögnek: ${area} cm2 ||| A háromszög kerülete: ${perimeterfin} cm`);
+       }
        else if (ao > 0 && bo > 0 && csz > 0) {
-
+         var pi = Math.PI;
+         var tempang = csz * (pi/180)
+         var ang = Math.sin(tempang);
+         var angP = Math.cos(tempang);
+         var area = ((1/2) * ao * bo * ang).toFixed(2);
+         var perimeterTemp = 2*(bo*ao*angP);
+         var perimeterC = (ao*ao) + (bo*bo) - perimeterTemp
+         var perimeterfin = (Math.sqrt(perimeterC) + ao + bo).toFixed(2);
+         window.alert(`A területe a háromszögnek: ${area} cm2 ||| A háromszög kerülete: ${perimeterfin} cm`);
+       }
+       else if (co > 0 && ao > 0 && bsz > 0) {
+         var pi = Math.PI;
+         var tempang = bsz * (pi/180)
+         var ang = Math.sin(tempang);
+         var angP = Math.cos(tempang);
+         var area = ((1/2) * ao * co * ang).toFixed(2);
+         var perimeterTemp = 2*(co*ao*angP);
+         var perimeterC = (ao*ao) + (co*co) - perimeterTemp
+         var perimeterfin = (Math.sqrt(perimeterC) + ao + co).toFixed(2);
+         window.alert(`A területe a háromszögnek: ${area} cm2 ||| A háromszög kerülete: ${perimeterfin} cm`);
+       }
+       else{
+         window.alert("Ezekkel az adatokkal nem tudja az oldal kiszámolni az eredményt.")
        }
      }
 
