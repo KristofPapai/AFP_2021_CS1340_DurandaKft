@@ -16,12 +16,13 @@ Az oldal azért jött létre, hogy a felhasználó bizonyosságot nyerhessen mat
 Előnye, hogy sem belépni, sem regisztrálni nem szükséges a használatához, illetve a menüpontok nevei az egyes funkciókat egyaránt jelzik.
 
 //IDE LEHET BŐVÍTENI
-## 6. Használati esetek
-- Felhasználó: A főoldalon a felhasználó elérheti majd a 4db menüpontot melyekről a különböző számítási oldalakat tudják majd elérni.
-
+## 5. Használati esetek
+Felhasználó: 
+1. A főoldalon a felhasználó elérheti majd a 4db menüpontot melyekről a különböző számítási oldalakat tudják majd elérni.
+2. Az egyes menüpontok alatt található - képletmegoldó - funkciók igénybevétele.
 //képernyőtervek hamarosan
 
-## 8. Forgatókönyv:
+## 6. Forgatókönyv:
 Felhasználó:
 1. A felhasználó belép az oldalra és egyből a tájékoztató főoldal fogja fogadni.
 2. A felhasználó a menüsávból ki fogja tudni választani hogy melyik geometria számítást szeretné elvégezni.
