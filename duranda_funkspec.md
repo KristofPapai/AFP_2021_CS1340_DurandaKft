@@ -7,10 +7,6 @@ Célunk egy letisztult és könnyen használható weblap készítése volt, mely
 ## 2. Feltételek
 Az alkalamazásunk létrehozásának alapfeltétele, a Notepad++, Sublime Text, vagy valamilyen szövegszerkesztő program.
 
-## 3. Jelenlegi üzleti folyamatok modellje
-Ha az ember egy matematikai problémát szeretne megoldani vagy csupán ellenőrizni, azt minél gyorsabban és hatékonyabban szeretné végezni, ezért nem kíván sem regisztrálni, sem felesleges menüpontok között ugrálni.
-
-
 //IDE LEHET BŐVÍTENI
 ## 6. Használati esetek
 - Felhasználó: A főoldalon a felhasználó elérheti majd a 4db menüpontot melyekről a különböző számítási oldalakat tudják majd elérni.
