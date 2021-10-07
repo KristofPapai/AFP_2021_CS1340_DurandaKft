@@ -58,7 +58,16 @@
          window.alert(`A területe a háromszögnek: ${areaValue} cm2 ||| A háromszög kerülete: ${perimeterValue} cm`);
 
        }
-       else if (ao > 0 && bo > 0 && csz > 0) {
+       else if (bo > 0 && co > 0 && asz > 0) {
+         var pi = Math.PI;
+         var tempang = asz * (pi/180)
+         var ang = Math.sin(tempang);
+         var angP = Math.cos(tempang);
+         var area = ((1/2) * bo * co * ang).toFixed(2);
+         var perimeterTemp = 2*(bo*co*angP);
+         var perimeterC = (co*co) + (bo*bo) - perimeterTemp
+         var perimeterfin = (Math.sqrt(perimeterC) + co + bo).toFixed(2);
+         window.alert(`A területe a háromszögnek: ${area} cm2 ||| A háromszög kerülete: ${perimeterfin} cm`);
 
        }
      }
