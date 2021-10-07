@@ -1,4 +1,3 @@
-
       function calc(aoldal,boldal,coldal,aszog,bszog,cszog) {
        var ao = parseInt(document.getElementById(aoldal).value);
        var bo = parseInt(document.getElementById(boldal).value);
@@ -49,6 +48,33 @@
          var perimeterC = (ao*ao) + (co*co) - perimeterTemp
          var perimeterfin = (Math.sqrt(perimeterC) + ao + co).toFixed(2);
          window.alert(`A területe a háromszögnek: ${area} cm2 ||| A háromszög kerülete: ${perimeterfin} cm`);
+       }
+       else if (ao > 0 && bsz > 0 && csz > 0) {
+         var pi = Math.PI;
+         var szog1 = bsz * (pi/180);
+         var szog2 = csz * (pi/180);
+         var szamitas1 = (ao*ao) * (Math.sin(szog1) * Math.sin(szog2));
+         var szamitas2 = 2 * Math.sin(szog1+szog2);
+         var szamitasfin = szamitas1 / szamitas2
+         window.alert(`A területe a háromszögnek: ${szamitasfin.toFixed(2)} cm2 ||| A háromszög kerülete ebben a módban nem számolható ki.`)
+       }
+       else if (bo > 0 && asz > 0 && csz > 0) {
+         var pi = Math.PI;
+         var szog1 = asz * (pi/180);
+         var szog2 = csz * (pi/180);
+         var szamitas1 = (bo*bo) * (Math.sin(szog1) * Math.sin(szog2));
+         var szamitas2 = 2 * Math.sin(szog1+szog2);
+         var szamitasfin = szamitas1 / szamitas2
+         window.alert(`A területe a háromszögnek: ${szamitasfin.toFixed(2)} cm2 ||| A háromszög kerülete ebben a módban nem számolható ki.`)
+       }
+       else if (co > 0 && asz > 0 && bsz > 0) {
+         var pi = Math.PI;
+         var szog1 = asz * (pi/180);
+         var szog2 = bsz * (pi/180);
+         var szamitas1 = (co*co) * (Math.sin(szog1) * Math.sin(szog2));
+         var szamitas2 = 2 * Math.sin(szog1+szog2);
+         var szamitasfin = szamitas1 / szamitas2
+         window.alert(`A területe a háromszögnek: ${szamitasfin.toFixed(2)} cm2 ||| A háromszög kerülete ebben a módban nem számolható ki.`)
        }
        else{
          window.alert("Ezekkel az adatokkal nem tudja az oldal kiszámolni az eredményt.")
