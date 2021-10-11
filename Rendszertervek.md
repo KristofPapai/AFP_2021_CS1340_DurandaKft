@@ -9,4 +9,5 @@ Az oldal használatához nem szükséges regisztrálni, ezáltal nincs lehetős�
 A projektet weblapon valósítjuk meg, melynek van egyaránt frontend és backend része.
 Az egyes feladatokat többségében külön emberek végzik.
 A frontend fejlesztésére HTML-t és CSS alkalmazunk.
-A frontend fejlesztők célja hogy egy könnyen átlátható, igényes, felhasználóbarát felületet hozzon létre.
+A frontend fejlesztők célja hogy egy könnyen átlátható, igényes, felhasználóbarát felületet hozzanak létre.
+A backend fejlesztők feladata, a háttérben zajló folyamatok leprogramozása, JavaScript kód megírása, a program helyes működésének biztosítása, és az eredmény kiértékelése.
