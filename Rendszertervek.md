@@ -25,6 +25,8 @@ Rendszerszereplők:
 ## 5. Fizikai környezet
 A projektről:
 - A projekt webes felületen keresztül működik de telefonokon és tableteken is használható.
+- A weboldalhoz igénybe vételéhez csupán egy internetes böngészőre van szükségünk.
+- A weboldal futtatása bármilyen operációs rendszeren és böngészőben elérhető lesz.
 
 fejlesztéshez használt eszközök:
 - Atom
