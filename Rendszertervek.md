@@ -28,13 +28,17 @@ A projektről:
 - A weboldalhoz igénybe vételéhez csupán egy internetes böngészőre van szükségünk.
 - A weboldal futtatása bármilyen operációs rendszeren és böngészőben elérhető lesz.
 
-
-## 6. Architekturális terv
-- A weboldalhoz mindössze egy webböngészőre van szükség, amely képes JavaScript kódot futtani.
--
--
-
 fejlesztéshez használt eszközök:
 - Atom
 - dillinger
 - GitShark
+
+
+## 6. Architekturális terv
+- A weboldalhoz mindössze egy webböngészőre van szükség, amely képes JavaScript kódot futtani.
+
+## 7. Tesztterv
+- Folyamatos tesztelési procedúrák beiktatása a weboldal fejlesztése közben.
+- Tesztelni kell az adatok bevitelének gördülékenységét és az eredmények megbízhatóságát, illetve hogy minden esetben a megfelelő hibaüzenetet kapjuk.
+
+
