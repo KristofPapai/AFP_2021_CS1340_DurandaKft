@@ -49,3 +49,12 @@ fejlesztéshez használt eszközök:
 - Több matematikai megoldó algoritmus hozzáadása.
 - Az oldal helyes működésének heti rendszerességgel történő ellenőrzése.
 
+## 10. Elvégzett tesztek
+## 10.1 Hibás tesztek
+	- 
+	--
+	--
+
+	-
+	--
+	--
