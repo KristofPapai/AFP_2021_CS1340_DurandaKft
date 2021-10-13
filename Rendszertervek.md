@@ -17,3 +17,7 @@ A frontend fejlesztésére HTML-t és CSS alkalmazunk.
 A weboldal létrehozásához HTML/CSS illetve JavaScriptet és PHP-t használtunk.
 A felépítés és dizájnolás HTML és CSS implementálásával történik.
 Az oldal teljes értékű felhasználására elegendő egy egyszerű internetes böngészőt indítanunk.
+
+## 4.Funkcionális terv
+Rendszerszereplők:
+- A felhasználó: Egyetlen szereplő a weboldal személyi igénybevétele során, hiszen ő számoltatja ki és kapja mge az eredményt.
