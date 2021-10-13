@@ -20,4 +20,4 @@ Az oldal teljes értékű felhasználására elegendő egy egyszerű internetes 
 
 ## 4.Funkcionális terv
 Rendszerszereplők:
-- A felhasználó: Egyetlen szereplő a weboldal személyi igénybevétele során, hiszen ő számoltatja ki és kapja mge az eredményt.
+- A felhasználó: Egyetlen szereplő a weboldal személyi igénybevétele során, hiszen ő számoltatja ki és kapja meg az eredményt.
