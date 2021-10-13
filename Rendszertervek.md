@@ -21,3 +21,12 @@ Az oldal teljes értékű felhasználására elegendő egy egyszerű internetes 
 ## 4.Funkcionális terv
 Rendszerszereplők:
 - A felhasználó: Egyetlen szereplő a weboldal személyi igénybevétele során, hiszen ő számoltatja ki és kapja meg az eredményt.
+
+## 5. Fizikai környezet
+A projektről:
+- A projekt webes felületen keresztül működik de telefonokon és tableteken is használható.
+
+fejlesztéshez használt eszközök:
+- Atom
+- dillinger
+- GitShark
