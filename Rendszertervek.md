@@ -29,7 +29,7 @@ A projektről:
 - A weboldal futtatása bármilyen operációs rendszeren és böngészőben elérhető lesz.
 
 
-## 6. Archtitekturális terv
+## 6. Architekturális terv
 - A weboldalhoz mindössze egy webböngészőre van szükség, amely képes JavaScript kódot futtani.
 -
 -
