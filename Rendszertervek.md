@@ -41,4 +41,5 @@ fejlesztéshez használt eszközök:
 - Folyamatos tesztelési procedúrák beiktatása a weboldal fejlesztése közben.
 - Tesztelni kell az adatok bevitelének gördülékenységét és az eredmények megbízhatóságát, illetve hogy minden esetben a megfelelő hibaüzenetet kapjuk.
 
-
+## 8. Telepítési terv
+- Nem szükséges telepítés, böngészőből minden eszközön futtatható.
