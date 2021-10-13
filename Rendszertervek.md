@@ -28,6 +28,12 @@ A projektről:
 - A weboldalhoz igénybe vételéhez csupán egy internetes böngészőre van szükségünk.
 - A weboldal futtatása bármilyen operációs rendszeren és böngészőben elérhető lesz.
 
+
+## 6. Archtitekturális terv
+- A weboldalhoz mindössze egy webböngészőre van szükség, amely képes JavaScript kódot futtani.
+-
+-
+
 fejlesztéshez használt eszközök:
 - Atom
 - dillinger
