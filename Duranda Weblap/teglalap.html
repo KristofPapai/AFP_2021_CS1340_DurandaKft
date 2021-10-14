@@ -22,29 +22,12 @@
       <h1>Téglalap számítás:</h1>
       <div class="middle">
         <!-- oldalak -->
-        <label for="aoldal">(a) oldal:</label>
-        <input type="number" min="0" id="aoldal" name="aoldal"><br><br>
-        <label for="boldal">(b) oldal:</label>
-        <input type="number" min="0" id="boldal" name="boldal"><br><br>
+        <label for="oldalA">(a) oldal:</label>
+        <input type="number" min="0" id="oldalA" name="oldalB"><br><br>
+        <label for="oldalB">(b) oldal:</label>
+        <input type="number" min="0" id="oldalA" name="oldalB"><br><br>
 		<input type="button" onclick="calculate('oldalA','oldalB')" value="Számolás!"><br><br>
       </div>
     </div>
-	<script type="text/javascript">
-	function calculate(oldalA,oldalB){
-		var oldalA(parseInt(document.getElementById(oldalA).value);
-		var oldalB(parseInt(document.getElementById(oldalB).value);
-		
-		if (oldalA > 0 && oldalB > 0)
-		{
-			var K = 2 * (oldalA + oldalB);
-			var T = (oldalA * oldalB).ToFixed(2);
-			window.alert(`A téglalap területe: ${T} cm2 ||| A téglalap kerülete: ${K} cm`);
-		}
-	
-	}
-	
-	</script>
-
-	
   </body>
 </html>
