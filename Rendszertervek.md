@@ -65,4 +65,4 @@ fejlesztéshez használt eszközök:
 
 	- Sokszög kalkulátor tesztje
 	-- A weboldal sokszög kalkulátora hibásan működött az elkülönített javascript miatt.
-	-- A hiba ki lett javítva.
+	-- A hiba ki lett javítva. 
