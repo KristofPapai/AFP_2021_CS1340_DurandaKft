@@ -44,7 +44,7 @@ fejlesztéshez használt eszközök:
 ## 8. Telepítési terv
 - Nem szükséges telepítés, böngészőből minden eszközön futtatható.
 
-##9. Karbantartási terv
+## 9. Karbantartási terv
 - A weboldal frissítési jogát fenntartjuk.
 - Több matematikai megoldó algoritmus hozzáadása.
 - Az oldal helyes működésének heti rendszerességgel történő ellenőrzése.
