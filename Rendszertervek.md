@@ -51,9 +51,9 @@ fejlesztéshez használt eszközök:
 
 ## 10. Elvégzett tesztek
 ## 10.1 Hibás tesztek
-	- 
-	--
-	--
+	- A háromszög oldal kerület/terület számítása.
+	-- A weboldal hibásan jelenítette meg az oldalakból kiszámolt kerület és terület eredményeket.
+	-- A hiba ki lett javítva.
 
 	-
 	--
