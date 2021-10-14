@@ -6,9 +6,10 @@ function calculate(oldalA,oldalB){
         {
             var K = 2 * (oldalA + oldalB);
             var T = (oldalA * oldalB).ToFixed(2);
-            window.alert(A téglalap területe: ${T} cm2 ||| A téglalap kerülete: ${K} cm);
+            window.alert("A téglalap területe: ${T} cm2 ||| A téglalap kerülete: ${K} cm");
         }
         else
-
-
+		{
+			window.alert("Ezekkel az adatokkal nem tudja az oldal kiszámolni az eredményt.")
+		}
     }
