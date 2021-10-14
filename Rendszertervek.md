@@ -58,3 +58,7 @@ fejlesztéshez használt eszközök:
 	-A főoldal dizájn tesztje.
 	-- A weboldal néha kéretlen szövegeket tartalmazott a főoldalon.
 	-- A hiba ki lett javítva.
+
+	- Sokszög oldal tesztje
+	-- A weboldal sokszög kalkulátoránál a felhasználói inputok nem voltak helyesen kezelve.
+	-- A hiba ki lett javítva.
