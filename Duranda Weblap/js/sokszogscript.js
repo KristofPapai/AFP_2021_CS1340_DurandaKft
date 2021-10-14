@@ -1,4 +1,3 @@
-<script type="text/javascript">
     function calc(oldalSz,oldalH){
       var oldalN = parseInt(document.getElementById(oldalSz).value);
       var oldalL = parseInt(document.getElementById(oldalH).value);
@@ -15,4 +14,3 @@
         window.alert("Ezekkel az adatokkal nem tudja az oldal kiszámolni az eredményt.")
       }
     }
-    </script>
