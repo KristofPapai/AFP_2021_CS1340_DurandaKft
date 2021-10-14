@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
 	function calculate(oldalA,oldalB){
 		var oldalA(parseInt(document.getElementById(oldalA).value);
 		var oldalB(parseInt(document.getElementById(oldalB).value);
@@ -13,5 +13,3 @@
 		
 	
 	}
-	
-	</script>
